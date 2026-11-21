@@ -2,6 +2,13 @@
 
 Tercer miniproyecto de Redes Neuronales Artificiales y Deep Learning (Grupo 7, Universidad Autónoma de Occidente, Cali).
 
+## Video pitch
+
+[![Video pitch](https://img.youtube.com/vi/hcVU_OtJl6E/0.jpg)](https://youtu.be/hcVU_OtJl6E)
+
+[Ver el video de sustentación en YouTube](https://youtu.be/hcVU_OtJl6E)
+
+
 La idea del proyecto es tomar una foto antigua (en blanco y negro o sepia, con poco contraste, algo borrosa) y devolverla con color y con aspecto de foto actual. Como no existen pares "foto vieja / misma foto restaurada", lo planteamos como una traducción no pareada entre dos dominios y usamos una CycleGAN:
 
 - Dominio A: fotos antiguas, anteriores a 1960, sacadas de la Library of Congress.
